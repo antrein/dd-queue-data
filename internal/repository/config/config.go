@@ -4,7 +4,7 @@ import (
 	"antrein/dd-queue-data/model/config"
 	"context"
 
-	pb "github.com/antrein/proto-repository/pb/bc"
+	pb "github.com/antrein/proto-repository/pb/dd"
 
 	"github.com/redis/go-redis/v9"
 	"google.golang.org/grpc"

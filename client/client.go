@@ -4,7 +4,7 @@ import (
 	"context"
 	"time"
 
-	pb "github.com/antrein/proto-repository/pb/bc"
+	pb "github.com/antrein/proto-repository/pb/dd"
 
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/credentials/insecure"
